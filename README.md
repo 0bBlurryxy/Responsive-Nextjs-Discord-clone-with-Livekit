@@ -7,7 +7,13 @@
   <p>
 Create servers, manage roles, and chat in real-time with WebSocket and React-Query. Enjoy audio/video calls with LiveKit, and handle files with UploadThing. Powered by Clerk for auth, Neon.tech for the database, and Prisma ORM.
   </p>
-
+<table>
+      <tr>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1pic-light.PNG" alt="10pic-light" width="300"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1pic.PNG" alt="10pic" width="300"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1mobile.PNG" alt="13mobile" width="100"></td>
+        </tr>
+</table>
   <p>
     <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="contributors" />
